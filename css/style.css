@@ -1,0 +1,19 @@
+* {
+  background-color: black;
+  color: rgb(139, 30, 139);
+}
+
+
+
+h1 {
+  color: violet;
+  font-size: 30;
+  text-align: center;
+  background-color: rgb(120, 145, 146);
+  width:auto;
+}
+
+footer {
+  text-align:right ;
+}
+
