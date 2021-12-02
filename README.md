@@ -32,6 +32,13 @@ This web page serves as a short autobiographical resource and a means of practic
 
 * For above additions: track correct answer proportion, alert with value after all other prompts & alerts.
 
+### Lab 04
+
+* Paired programming: Wrapped lab 03 questions in functions.
+  * Driver: Kendrah Davis, Navigator: Robb Alexander
+  * Date: 12.02.2021
+
 ## Licenses
 
 *Used MIT license
+
